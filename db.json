@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "name": "Projeto de Rádio Frequenência",
+      "budget": "10500",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 10500,
+      "services": [
+        {
+          "name": "Técnico de instalação",
+          "cost": "4000",
+          "description": "Operador que irá fazer a instalação do rádio ",
+          "id": "d5036e95-1726-4397-ba28-0ec399438604"
+        },
+        {
+          "name": "PTA",
+          "cost": "6500",
+          "description": "Maquinario que ira elevar o operador",
+          "id": "02968e80-e0d7-490a-aceb-4b98179b9478"
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
